@@ -17,3 +17,5 @@ Gemas que ocupo en desarrollo
 - sanitize
 - recaptcha
 - rails-erd
+- friendly_id
+- groupdate
