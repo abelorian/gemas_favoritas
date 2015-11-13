@@ -1,6 +1,6 @@
 # gemas_favoritas
 
-Gemas que ocupo en desarrollo
+Gemas que ocupo en desarrollo (Ruby on Rails 4)
 
 - gem 'bootstrap-sass'
 - gem 'rails_admin'
