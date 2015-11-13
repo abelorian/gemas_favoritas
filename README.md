@@ -1,21 +1,24 @@
 # gemas_favoritas
+
 Gemas que ocupo en desarrollo
 
-- bootstrap-sass
-- rails_admin
-- devise
-- activemerchant # manejo de pagos
-- omniauth
-- omniauth-facebook
-- cancancan
-- paperclip
-- carrierwave
-- will_paginate
-- will_paginate-bootstrap
-- rack-cors # para api
-- summernote-rails
-- sanitize
-- recaptcha
-- rails-erd
-- friendly_id
-- groupdate
+- gem 'bootstrap-sass'
+- gem 'rails_admin'
+- gem 'devise'
+- gem 'activemerchant' # manejo de pagos
+- gem 'omniauth'
+- gem 'omniauth-facebook'
+- gem 'cancancan'
+- gem 'paperclip'
+- gem 'carrierwave'
+- gem 'will_paginate'
+- gem 'will_paginate-bootstrap'
+- gem 'rack-cors' # para api
+- gem 'summernote-rails'
+- gem 'sanitize'
+- gem 'recaptcha'
+- gem 'rails-erd'
+- gem 'friendly_id'
+- gem 'groupdate'
+- gem 'wicked_pdf'
+- gem 'wkhtmltopdf-binary', github: 'zakird/wkhtmltopdf_binary_gem'
